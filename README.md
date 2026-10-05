@@ -1,5 +1,9 @@
 # ✈️ TripPilot AI
 
+**▶ [Watch the demo video](https://youtu.be/IcvbpsOCr38)** · **[Try the live app](https://trippilot-ai-meepsrhytfe9nnb2q2rabr.streamlit.app/)** (click "View sample itinerary", no API keys needed) · **[See my portfolio](https://iliass-elguaari.github.io)**
+
+*Extended from an open-source AI travel planner: I added budget levels and travel styles, deployed it, fixed the vanishing-itinerary and calendar start-date bugs, and added the no-keys sample itinerary.*
+
 ## 📸 Preview
 ![alt text](image.png)
 
