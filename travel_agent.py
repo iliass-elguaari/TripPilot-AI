@@ -50,7 +50,8 @@ def generate_ics_content(plan_text: str, start_date: date) -> bytes:
             event.add('dtstamp', datetime.now())
             cal.add_component(event)
 
-    return cal.to_ical()
+    return cal.to_ical() 
+# I LOVE THISSSS!!!!
 
 
 # ---------------------------------------------------------------------------
